@@ -1,0 +1,41 @@
+.cabeçalho{
+    background-color: #f3c183;
+    color:rgb(0, 0, 0);
+    margin: 0;
+    display:flex;
+    justify-content: center;
+}
+
+{
+    margin: 0;
+    padding: 0;
+}
+
+.seymour-one-regular {
+    font-family: "Seymour One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .cabeçalho-titulo{
+    display:flex;
+    justify-content: center;
+    font-family: "Seymour One", sans-serif;
+    font-weight: 680;
+    font-style: normal
+    
+  }
+
+.cabeçalho-lista {
+    display: flex;
+    justify-content: center;
+    font-family: "Seymour One", sans-serif;
+    font-weight: 680;
+    font-style: normal
+
+  }                         
+.texto {
+  font-size:xx-large;
+  font-weight: 600;
+  font-style:inherit;
+}                       
